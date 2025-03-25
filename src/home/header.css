@@ -1,31 +1,31 @@
 @font-face {
     font-family: "kionaregular";
-    src: url("/fonts/Kiona-Regular.ttf") format("truetype");
+    src: url("/thanish-portfolio/fonts/Kiona-Regular.ttf") format("truetype");
 }
 @font-face {
     font-family: "louisgeorgecafe";
-    src: url("/fonts/Louis George Cafe.ttf") format("truetype");
+    src: url("/thanish-portfolio/fonts/Louis George Cafe.ttf") format("truetype");
 }
 @font-face {
     font-family: "louisgeorgecafebold";
-    src: url("/fonts/Louis George Cafe Bold.ttf") format("truetype");
+    src: url("/thanish-portfolio/fonts/Louis George Cafe Bold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "comfortaa-regular";
-    src: url("/fonts/Comfortaa-Regular.ttf") format("truetype");
+    src: url("/thanish-portfolio/fonts/Comfortaa-Regular.ttf") format("truetype");
 }
 @font-face {
     font-family: "aquafont";
-    src: url("./fonts/aqua.ttf") format("truetype");
+    src: url("/thanish-portfolio/fonts/aqua.ttf") format("truetype");
 }
 @font-face {
     font-family: "azonix";
-    src: url("/fonts/Azonix.otf") format("opentype");
+    src: url("/thanish-portfolio/fonts/Azonix.otf") format("opentype");
 }
 @font-face {
     font-family: "Roliderounded";
-    src: url("/fonts/RolideRounded-Regular.otf") format("opentype");
+    src: url("/thanish-portfolio/fonts/RolideRounded-Regular.otf") format("opentype");
 }
 .header {
     background-color: var(--primary-color); /* Match body background */
