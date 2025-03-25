@@ -66,9 +66,11 @@
   width: 80%;
   padding: 80px;
   text-align: left;
+  transition: transform .5s;
 }
-.project-cover:hover{
+.project-cover:hover {
   cursor: pointer;
+  transform: scale(1.06);
 }
 .casestudy{
   height: 40px;
