@@ -7,7 +7,7 @@ function Footer() {
       <div>
         <img
           className="logo-bottom"
-          src="/images/my-logo-icon.png"
+          src="./images/my-logo-icon.png"
           alt="Logo"
           onClick={() => (window.location.href = "#head")}
         />

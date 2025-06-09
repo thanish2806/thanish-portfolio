@@ -29,7 +29,7 @@ function Home() {
 
       {/* Background logo with animation */}
       <img
-        src="/images/my-logo-icon.png"
+        src="./images/my-logo-icon.png"
         className="background-logo"
         alt="Logo"
         style={{

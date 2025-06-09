@@ -27,7 +27,7 @@ function Mainmenu({ isVisible, onClose }) {
 
       {/* Contact Menu */}
       <div className="contactmenu">
-        <img className="closeicon" onClick={onClose} src={isDarkTheme ? "/images/close-icon-dark.png" : "/images/close-icon-light.png"} alt="Close" />
+        <img className="closeicon" onClick={onClose} src={isDarkTheme ? "./images/close-icon-dark.png" : "./images/close-icon-light.png"} alt="Close" />
         <p className="contactmenutitle">Let's Talk.</p>
         <p className="contactmenusubtitle">New projects, freelance inquiries, or even a coffee.</p>
 
